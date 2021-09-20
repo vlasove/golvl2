@@ -4,7 +4,7 @@ package main
 import (
 	"log"
 
-	frameworkFacade "github.com/vlasove/materials/tasks_2/patterns/facade/framework-facade"
+	frameworkFacade "github.com/vlasove/golvl2/patterns/01_facade/framework-facade"
 )
 
 func main() {

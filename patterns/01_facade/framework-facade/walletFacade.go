@@ -4,7 +4,7 @@ package frameworkFacade
 import (
 	"log"
 
-	"github.com/vlasove/materials/tasks_2/patterns/facade/framework"
+	"github.com/vlasove/golvl2/patterns/01_facade/framework"
 )
 
 // WalletFacade  - фасад для framework
