@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/vlasove/materials/tasks_2/utils/unpack/helper"
+	"github.com/vlasove/golvl2/develop/unpack/helper"
 )
 
 func main() {
