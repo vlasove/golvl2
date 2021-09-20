@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/vlasove/materials/tasks_2/patterns/fabricmethod/gunfactory"
+	"github.com/vlasove/golvl2/patterns/06_factory_method/gunfactory"
 )
 
 func main() {
