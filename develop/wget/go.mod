@@ -1,4 +1,4 @@
-module github.com/vlasove/materials/tasks_2/utils/wget
+module github.com/vlasove/golvl2/develop/wget
 
 go 1.16
 

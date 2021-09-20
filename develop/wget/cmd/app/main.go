@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/vlasove/materials/tasks_2/utils/wget/internal/app/managers"
-	"github.com/vlasove/materials/tasks_2/utils/wget/internal/app/wget"
+	"github.com/vlasove/golvl2/develop/wget/internal/app/managers"
+	"github.com/vlasove/golvl2/develop/wget/internal/app/wget"
 )
 
 const (

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/vlasove/materials/tasks_2/utils/wget/internal/app/managers"
+	"github.com/vlasove/golvl2/develop/wget/internal/app/managers"
 )
 
 var (
