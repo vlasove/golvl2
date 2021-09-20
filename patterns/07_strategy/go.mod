@@ -1,3 +1,3 @@
-module github.com/vlasove/materials/tasks_2/patterns/strategy
+module github.com/vlasove/golvl2/patterns/07_strategy
 
 go 1.16

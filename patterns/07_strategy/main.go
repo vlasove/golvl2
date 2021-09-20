@@ -1,6 +1,6 @@
 package main
 
-import "github.com/vlasove/materials/tasks_2/patterns/strategy/cache"
+import "github.com/vlasove/golvl2/patterns/07_strategy/cache"
 
 func main() {
 	lfu := &cache.Lfu{}
