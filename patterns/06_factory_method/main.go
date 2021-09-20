@@ -7,7 +7,6 @@ import (
 	"github.com/vlasove/materials/tasks_2/patterns/fabricmethod/gunfactory"
 )
 
-// Фабричный метод прочитан еще раз!
 func main() {
 	ak47, err := gunfactory.GetGun("ak47", 4)
 	if err != nil {
