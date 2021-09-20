@@ -1,6 +1,6 @@
 package main
 
-import "github.com/vlasove/golvl2/listing/listing_06"
+import "github.com/vlasove/golvl2/listing/listing_04"
 
 func main() {
 	// -------- LISTING 1 started ------------
@@ -16,7 +16,7 @@ func main() {
 	// -------- LISTING 3 finished -----------
 
 	// -------- LISTING 4 started ------------
-	//listing_04.Start()
+	listing_04.Start()
 	// -------- LISTING 4 finished -----------
 
 	// -------- LISTING 5 started ------------
@@ -24,7 +24,7 @@ func main() {
 	// -------- LISTING 5 finished -----------
 
 	// -------- LISTING 6 started ------------
-	listing_06.Start()
+	//listing_06.Start()
 	// -------- LISTING 6 finished -----------
 
 	// -------- LISTING 7 started ------------
