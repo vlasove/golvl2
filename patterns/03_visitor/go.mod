@@ -1,3 +1,3 @@
-module github.com/vlasove/materials/tasks_2/patterns/visitor
+module github.com/vlasove/golvl2/patterns/03_visitor
 
 go 1.16

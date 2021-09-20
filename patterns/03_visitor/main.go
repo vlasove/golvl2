@@ -1,6 +1,6 @@
 package main
 
-import "github.com/vlasove/materials/tasks_2/patterns/visitor/figures"
+import "github.com/vlasove/golvl2/patterns/03_visitor/figures"
 
 func main() {
 	circle := figures.NewCircle(10.5)
