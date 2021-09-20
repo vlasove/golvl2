@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/vlasove/materials/tasks_2/patterns/state/vending"
+	"github.com/vlasove/golvl2/patterns/08_state/vending"
 )
 
 func main() {

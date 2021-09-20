@@ -1,3 +1,3 @@
-module github.com/vlasove/materials/tasks_2/patterns/state
+module github.com/vlasove/golvl2/patterns/08_state
 
 go 1.16
