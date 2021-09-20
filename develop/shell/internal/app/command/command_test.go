@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/vlasove/golvl2/shell/internal/app/shell"
+	"github.com/vlasove/golvl2/develop/shell/internal/app/shell"
 )
 
 func TestCommand_BuildPrefix(t *testing.T) {

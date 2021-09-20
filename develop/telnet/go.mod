@@ -1,4 +1,4 @@
-module github.com/vlasove/golvl2/telnet
+module github.com/vlasove/golvl2/develop/telnet
 
 go 1.16
 

@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/vlasove/golvl2/shell/internal/app/command"
-	"github.com/vlasove/golvl2/shell/internal/app/shell"
+	"github.com/vlasove/golvl2/develop/shell/internal/app/command"
+	"github.com/vlasove/golvl2/develop/shell/internal/app/shell"
 )
 
 const (

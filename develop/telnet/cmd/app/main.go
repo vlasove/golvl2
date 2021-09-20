@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/vlasove/golvl2/telnet/internal/app/client"
+	"github.com/vlasove/golvl2/develop/telnet/internal/app/client"
 )
 
 const (

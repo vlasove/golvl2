@@ -9,7 +9,7 @@ import (
 	"os/user"
 	"strings"
 
-	"github.com/vlasove/golvl2/shell/internal/app/shell"
+	"github.com/vlasove/golvl2/develop/shell/internal/app/shell"
 )
 
 var (

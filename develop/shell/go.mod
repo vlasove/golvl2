@@ -1,4 +1,4 @@
-module github.com/vlasove/golvl2/shell
+module github.com/vlasove/golvl2/develop/shell
 
 go 1.16
 
