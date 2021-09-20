@@ -4,8 +4,8 @@ package main
 import (
 	"log"
 
-	carBuilder "github.com/vlasove/materials/tasks_2/patterns/builder/car-builder"
-	builders "github.com/vlasove/materials/tasks_2/patterns/builder/house-builders"
+	carBuilder "github.com/vlasove/golvl2/patterns/02_builder/car-builder"
+	builders "github.com/vlasove/golvl2/patterns/02_builder/house-builders"
 )
 
 func main() {
