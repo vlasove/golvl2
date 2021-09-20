@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/vlasove/materials/tasks_2/patterns/commands/cafe"
-	"github.com/vlasove/materials/tasks_2/patterns/commands/tv"
+	"github.com/vlasove/golvl2/patterns/04_commands/cafe"
+	"github.com/vlasove/golvl2/patterns/04_commands/tv"
 )
 
 // Очередь добавлена!

@@ -1,3 +1,3 @@
-module github.com/vlasove/materials/tasks_2/patterns/commands
+module github.com/vlasove/golvl2/patterns/04_commands
 
 go 1.16
