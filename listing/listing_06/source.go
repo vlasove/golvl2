@@ -1,4 +1,4 @@
-package task6
+package listing_06
 
 import (
 	"fmt"

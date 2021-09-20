@@ -1,6 +1,6 @@
 // Что выведет программа?
 // Объяснить вывод программы.
-package task1
+package listing_01
 
 import "fmt"
 

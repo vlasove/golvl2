@@ -1,5 +1,5 @@
 // Что выведет программа? Объяснить вывод программы.
-package task4
+package listing_04
 
 import "fmt"
 
